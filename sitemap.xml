@@ -3,55 +3,55 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://simpleappman.com/</loc>
+    <loc>https://simpleappman.github.io/</loc>
     <lastmod>2019-08-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://simpleappman.com/about/</loc>
+    <loc>https://simpleappman.github.io/about/</loc>
     <lastmod>2019-08-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://simpleappman.com/post/</loc>
+    <loc>https://simpleappman.github.io/post/</loc>
     <lastmod>2019-08-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://simpleappman.com/hitthegap/</loc>
+    <loc>https://simpleappman.github.io/hitthegap/</loc>
     <lastmod>2019-08-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://simpleappman.com/privacypolicy/</loc>
+    <loc>https://simpleappman.github.io/privacypolicy/</loc>
     <lastmod>2019-08-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://simpleappman.com/projects/</loc>
+    <loc>https://simpleappman.github.io/projects/</loc>
     <lastmod>2019-08-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://simpleappman.com/tags/</loc>
-    <lastmod>2019-08-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://simpleappman.com/tags/games/</loc>
+    <loc>https://simpleappman.github.io/tags/</loc>
     <lastmod>2019-08-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://simpleappman.com/tags/hit-the-gap/</loc>
+    <loc>https://simpleappman.github.io/tags/games/</loc>
     <lastmod>2019-08-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://simpleappman.com/tags/inspiration/</loc>
+    <loc>https://simpleappman.github.io/tags/hit-the-gap/</loc>
+    <lastmod>2019-08-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://simpleappman.github.io/tags/inspiration/</loc>
     <lastmod>2019-08-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

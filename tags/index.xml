@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on SimpleAppMan</title>
-    <link>https://simpleappman.com/tags/</link>
+    <link>https://simpleappman.github.io/tags/</link>
     <description>Recent content in Tags on SimpleAppMan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Fri, 30 Aug 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://simpleappman.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://simpleappman.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>games</title>
-      <link>https://simpleappman.com/tags/games/</link>
+      <link>https://simpleappman.github.io/tags/games/</link>
       <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://simpleappman.com/tags/games/</guid>
+      <guid>https://simpleappman.github.io/tags/games/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hit the gap</title>
-      <link>https://simpleappman.com/tags/hit-the-gap/</link>
+      <link>https://simpleappman.github.io/tags/hit-the-gap/</link>
       <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://simpleappman.com/tags/hit-the-gap/</guid>
+      <guid>https://simpleappman.github.io/tags/hit-the-gap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>inspiration</title>
-      <link>https://simpleappman.com/tags/inspiration/</link>
+      <link>https://simpleappman.github.io/tags/inspiration/</link>
       <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://simpleappman.com/tags/inspiration/</guid>
+      <guid>https://simpleappman.github.io/tags/inspiration/</guid>
       <description></description>
     </item>
     
