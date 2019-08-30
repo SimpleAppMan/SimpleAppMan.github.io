@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on SimpleAppMan</title>
+    <link>https://simpleappman.com/post/</link>
+    <description>Recent content in Blog on SimpleAppMan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 30 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://simpleappman.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hit the gap!</title>
+      <link>https://simpleappman.com/hitthegap/</link>
+      <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://simpleappman.com/hitthegap/</guid>
+      <description>The inspiration of hit the gap originates from years ago, when I was just a little kid. Back before when your imagination was a much larger part of your daily entertainment.
+Having nothing to do in the car, I&amp;rsquo;d try and judge when my car would line up in between things, cars, trees, road lights, that kind of thing, and when I thought I was right in between I&amp;rsquo;d click my teeth together.</description>
+    </item>
+    
+  </channel>
+</rss>

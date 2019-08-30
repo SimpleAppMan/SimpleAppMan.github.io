@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SimpleAppMan</title>
+    <link>https://simpleappman.com/</link>
+    <description>Recent content on SimpleAppMan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 30 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://simpleappman.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About me</title>
+      <link>https://simpleappman.com/about/</link>
+      <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://simpleappman.com/about/</guid>
+      <description>A simple guy who sometimes makes simple apps and games. Maybe I&amp;rsquo;ll write some short blog posts.</description>
+    </item>
+    
+    <item>
+      <title>Hit the gap!</title>
+      <link>https://simpleappman.com/hitthegap/</link>
+      <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://simpleappman.com/hitthegap/</guid>
+      <description>The inspiration of hit the gap originates from years ago, when I was just a little kid. Back before when your imagination was a much larger part of your daily entertainment.
+Having nothing to do in the car, I&amp;rsquo;d try and judge when my car would line up in between things, cars, trees, road lights, that kind of thing, and when I thought I was right in between I&amp;rsquo;d click my teeth together.</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://simpleappman.com/privacypolicy/</link>
+      <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://simpleappman.com/privacypolicy/</guid>
+      <description>SimpleAppMan built the Hit The Gap app as an Ad Supported app. This SERVICE is provided by SimpleAppMan at no cost and is intended for use as is.
+This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+If you choose to use my Service, then you agree to the collection and use of information in relation to this policy.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://simpleappman.com/projects/</link>
+      <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://simpleappman.com/projects/</guid>
+      <description>I&amp;rsquo;ve made some things, and I hope to make more.</description>
+    </item>
+    
+  </channel>
+</rss>
